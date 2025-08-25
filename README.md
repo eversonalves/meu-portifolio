@@ -1,7 +1,6 @@
-[Meu Portifólio]
+## Meu Portifólio
 
-🚀 Tecnologias Utilizadas
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+##🚀 Tecnologias
 
 HTML: Para a estruturação da página web.
 
