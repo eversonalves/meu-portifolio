@@ -1,6 +1,6 @@
 ## Meu Portifólio
 
-##🚀 Tecnologias
+## Tecnologias
 
 HTML: Para a estruturação da página web.
 
